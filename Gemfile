@@ -38,7 +38,7 @@ gem 'faraday_adapter_socks'
 
 gem 'strong_password', '~> 0.0.8'
 gem 'activerecord-session_store'
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
 gem 'bip_mnemonic', '~> 0.0.2'
 gem 'friendly_id', '~> 5.2.4'
 gem 'money-rails', '~>1.12'
